@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+    color: rgb(0, 255, 255);
+    background-color: rgb(142, 14, 14);
+}
+
+ body {
+    color: rgb(164, 95, 10);
+    background-color: black;
+ }
+
+ h2 {
+    text-align: center
+ 
+
+ }
+ .Ingredients {
+border: solid blue 2px;
+background-color: aqua;
+width: 25%;
+height: 30%;
+ }
+
+ .cookwear {
+   border: solid blue 2px;
+background-color: aqua;
+width: 25%;
+height: 30%;}
+
+ .Spaghetti picture {
+   border: solid blue 2px;
+background-color: aqua;
+width: 20%
+height: 20%; 
+
+ }
+
+ .ItemsNeeded {
+   display: ;
+   
+ }
